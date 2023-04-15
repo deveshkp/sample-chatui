@@ -1,6 +1,7 @@
 {
-  "name": "sampleapp",
+  "name": "sample-chatui",
   "version": "1.0.0",
+  "homepage": "https://deveshkp.github.io/sample-chatui/",
   "description": "sample react app",
   "main": "sample.js",
   "dependencies": {
