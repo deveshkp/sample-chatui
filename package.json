@@ -1,0 +1,48 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "sample react app",
+  "main": "sample.js",
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "dialogflow": "^1.2.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deveshkp/sample-chatui.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Devesh Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deveshkp/sample-chatui/issues"
+  },
+  "homepage": "https://github.com/deveshkp/sample-chatui#readme",
+  "devDependencies": {
+    "@types/dialogflow": "^4.0.4",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
